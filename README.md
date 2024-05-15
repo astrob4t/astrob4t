@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @SmallDragon4949
-- 👀 I’m interested in VR Games and Almost all game development
-- 🌱 I’m currently learning java, python, and html5.
-- Business Email: smalldragon4949@gmail.com
+- 👋 Hi, I’m @smalldragon4949(looking into changing it)
+- 👀 Interested in game glitches and game development
+- 🌱 I’m currently learning code when I can, primarily Java and Python.
+- Business Email:
+I dont have one
 <!---
 SmallDragon4949/SmallDragon4949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
