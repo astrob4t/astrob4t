@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrob4t
 - 👀 I make random scripts in various languages.
-- 🌱 I’m currently learning code when I can, primarily Javascript and Python.
+- 🌱 I’m currently learning code when I can, mainly Javascript and Rust.
 - Business Email:
 I dont have one
 <!---
