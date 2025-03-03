@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @astrob4t
-- 👀 Interested in game glitches and game development
-- 🌱 I’m currently learning code when I can, primarily Java and Python.
+- 👀 I make random scripts in various languages.
+- 🌱 I’m currently learning code when I can, primarily Javascript and Python.
 - Business Email:
 I dont have one
 <!---
-SmallDragon4949/SmallDragon4949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+astrob4t/astrob4t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
